@@ -12,6 +12,11 @@ int main(void)
 
 	while (num <= '9')/*print 0-9*/
 	{
+		putchar(num);
+		num++;
+	}
+	while (letter <= 'f')/*print a to f*/
+	{
 		putchar(letter);
 		letter++;
 	}
