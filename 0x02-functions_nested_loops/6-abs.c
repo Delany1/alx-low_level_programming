@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * -abs - computes the absolute value of an integer
+ * _abs - computes the absolute value of an integer
  * @n: THe int to be operated upon
  * Return: returns an unsigneed int value to calling function
  */
