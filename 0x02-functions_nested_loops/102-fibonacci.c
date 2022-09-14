@@ -27,5 +27,5 @@ int main(void)
 		k = l;
 	}
 
-	return(0);
+	return (0);
 }
