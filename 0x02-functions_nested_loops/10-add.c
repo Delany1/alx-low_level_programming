@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- * adds - prints add two numbers
- * @i: print int i
- * @k: print int k
- * Return: Always 0.
+ * add - add two numbers together
+ * @a: one argument
+ * @b: another argument to be added
+ * Return: returns 0 if successful
  */
 
-int add(int i, int k)
+int add(int a, int b)
 {
-	return (i + k);
+	return (a + b);
 }
