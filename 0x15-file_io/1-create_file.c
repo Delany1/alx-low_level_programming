@@ -27,3 +27,4 @@ int create_file(const char *filename, char *text_content)
 
 	close(fild);
 	return (1);
+}
